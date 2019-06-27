@@ -7,7 +7,7 @@ Please refer to [Tracking Temporal Evolution of Graphs using Non-Timestamped Dat
 
 ## Repository Structure
 * **anonymyzed_graphs**: contains Youtube graphs with the names of the files in the format: graph-yyyymmdd-hhhh.pickle. 
-* **anonymyzed_timeseries**: contains timeseries data for channels. Channels have comment, subscriber, video and view counts.
+* **anonymyzed_timeseries**: contains timeseries data for channels. Channels have comment, subscriber, video and view counts. The topic categories per channel are provided.
 * **anonymyzed_graphs.py**: file to anonymyze the original data.
 
 ## Data Format
