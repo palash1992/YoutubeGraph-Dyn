@@ -3,7 +3,7 @@ Datasets to study the temporal evolution of graphs are scarce. To encourage the 
 
 We  collected  the  metadata  from  6,342  channels, 277,604 videos, and more than 20 million comments from 2018/07/13 18:00:00 to 2018/10/26 with a frequency of 6 hours (00:00, 06:00, 12:00, and 18:00). These 6,342 channels were selected based on their mentions or their videos mentions on Twitter. The rationale behind this design choice is that content with the potential of becoming popular is being discussed in other social networks beyond YouTube, e.g., on Twitter. We bootstrapped the original channel list from 16,209 YouTube video links posted in Twitter from 2018/07/06 to 2018/07/12.
 
-Please refer to [Tracking Temporal Evolution of Graphs using Non-Timestamped Data](https://arxiv.org/abs/1705.02801) for complete details about the dataset.
+Please refer to [Tracking Temporal Evolution of Graphs using Non-Timestamped Data](https://arxiv.org/abs/1907.02222) for complete details about the dataset.
 
 ## Repository Structure
 * **anonymyzed_graphs**: contains Youtube graphs with the names of the files in the format: graph-yyyymmdd-hhhh.pickle. 
