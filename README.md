@@ -16,3 +16,10 @@ We store all graphs using the [Graph](https://networkx.github.io/documentation/s
 The time series data has channels as columns and values at each time step as the row.
 
 ## Cite
+
+@article{chhetri2019tracking,
+  title={Tracking Temporal Evolution of Graphs using Non-Timestamped Data},
+  author={Chhetri, Sujit Rokka and Goyal, Palash and Canedo, Arquimedes},
+  journal={arXiv preprint arXiv:1907.02222},
+  year={2019}
+}
